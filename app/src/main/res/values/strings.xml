@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FindMe</string>
+    <string name="home_title">Home</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="notification_title">Notification</string>
+    <string name="homefrg_title">Demande de position</string>
+    <string name="phonenbr_hint">Saisir un numero pour sa position</string>
+    <string name="btn_txt">Envoyer SMS</string>
+</resources>
